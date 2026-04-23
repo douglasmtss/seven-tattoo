@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0d0d0d"/>
+  <!-- dotwork sun rays -->
+  <g transform="translate(300,290)" opacity="0.6">
+    <g fill="#d4af37">
+      <!-- ray dots clusters -->
+      <circle cx="0" cy="-210" r="2"/><circle cx="3" cy="-205" r="1.5"/><circle cx="-3" cy="-200" r="1.5"/><circle cx="0" cy="-195" r="2"/>
+      <circle cx="148" cy="-148" r="2"/><circle cx="145" cy="-142" r="1.5"/><circle cx="140" cy="-148" r="1.5"/><circle cx="142" cy="-138" r="2"/>
+      <circle cx="210" cy="0" r="2"/><circle cx="205" cy="3" r="1.5"/><circle cx="200" cy="-3" r="1.5"/><circle cx="195" cy="0" r="2"/>
+      <circle cx="148" cy="148" r="2"/><circle cx="145" cy="142" r="1.5"/><circle cx="140" cy="148" r="1.5"/><circle cx="142" cy="138" r="2"/>
+      <circle cx="0" cy="210" r="2"/><circle cx="3" cy="205" r="1.5"/><circle cx="-3" cy="200" r="1.5"/><circle cx="0" cy="195" r="2"/>
+      <circle cx="-148" cy="148" r="2"/><circle cx="-145" cy="142" r="1.5"/><circle cx="-140" cy="148" r="1.5"/><circle cx="-142" cy="138" r="2"/>
+      <circle cx="-210" cy="0" r="2"/><circle cx="-205" cy="3" r="1.5"/><circle cx="-200" cy="-3" r="1.5"/><circle cx="-195" cy="0" r="2"/>
+      <circle cx="-148" cy="-148" r="2"/><circle cx="-145" cy="-142" r="1.5"/><circle cx="-140" cy="-148" r="1.5"/><circle cx="-142" cy="-138" r="2"/>
+    </g>
+  </g>
+  <!-- dotwork concentric rings -->
+  <g transform="translate(300,290)" fill="#d4af37" opacity="0.35">
+    <!-- ring 1 -->
+    <circle cx="0" cy="-170" r="1.5"/><circle cx="85" cy="-147" r="1.5"/><circle cx="147" cy="-85" r="1.5"/>
+    <circle cx="170" cy="0" r="1.5"/><circle cx="147" cy="85" r="1.5"/><circle cx="85" cy="147" r="1.5"/>
+    <circle cx="0" cy="170" r="1.5"/><circle cx="-85" cy="147" r="1.5"/><circle cx="-147" cy="85" r="1.5"/>
+    <circle cx="-170" cy="0" r="1.5"/><circle cx="-147" cy="-85" r="1.5"/><circle cx="-85" cy="-147" r="1.5"/>
+    <!-- ring 2 -->
+    <circle cx="0" cy="-130" r="1.5"/><circle cx="65" cy="-113" r="1.5"/><circle cx="113" cy="-65" r="1.5"/>
+    <circle cx="130" cy="0" r="1.5"/><circle cx="113" cy="65" r="1.5"/><circle cx="65" cy="113" r="1.5"/>
+    <circle cx="0" cy="130" r="1.5"/><circle cx="-65" cy="113" r="1.5"/><circle cx="-113" cy="65" r="1.5"/>
+    <circle cx="-130" cy="0" r="1.5"/><circle cx="-113" cy="-65" r="1.5"/><circle cx="-65" cy="-113" r="1.5"/>
+  </g>
+  <!-- center sun face outline -->
+  <circle cx="300" cy="290" r="70" fill="#0d0d0d" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <circle cx="300" cy="290" r="55" fill="none" stroke="#d4af37" stroke-width="1" opacity="0.5"/>
+  <!-- face features -->
+  <ellipse cx="278" cy="278" rx="8" ry="9" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="322" cy="278" rx="8" ry="9" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 278,305 Q 300,318 322,305" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 270,265 Q 278,260 286,264" fill="none" stroke="#d4af37" stroke-width="1.2" opacity="0.6"/>
+  <path d="M 314,264 Q 322,260 330,265" fill="none" stroke="#d4af37" stroke-width="1.2" opacity="0.6"/>
+  <text x="300" y="560" text-anchor="middle" fill="#d4af37" font-family="serif" font-size="13" opacity="0.6">Sol Dotwork • Seven Tattoo</text>
+</svg>

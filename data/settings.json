@@ -1,0 +1,21 @@
+{
+  "name": "Seven Tattoo",
+  "tagline": "Arte na pele, para sempre",
+  "description": "Estúdio privado de tatuagem localizado em Duque de Caxias, RJ. Especializado em criações únicas e personalizadas.",
+  "address": "Rua Erne - Duque de Caxias, RJ",
+  "phone": "+55 21 96581-3894",
+  "email": "",
+  "instagram": "https://www.instagram.com/seventattoo_ofc/",
+  "facebook": "https://www.facebook.com/profile.php?id=100028099554525",
+  "whatsapp": "https://api.whatsapp.com/send?phone=%2B5521965813894",
+  "tiktok": "https://www.tiktok.com/@7seventattoo",
+  "about": {
+    "title": "Sobre Nós",
+    "content": "A Seven Tattoo é um estúdio privado de tatuagem fundado por Geovanny Freitas, localizado em Duque de Caxias, RJ. Com dedicação à arte e ao cliente, cada tatuagem é criada com cuidado e personalidade. Orçamentos e agendamentos pelo direct do Instagram @seventattoo_ofc."
+  },
+  "businessHours": {
+    "Segunda-Sexta": "10:00 - 20:00",
+    "Sábado": "10:00 - 18:00",
+    "Domingo": "Fechado"
+  }
+}

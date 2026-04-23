@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0a0a0a"/>
+  <!-- phoenix wing left -->
+  <path d="M 300,300 Q 220,250 150,180 Q 120,220 160,270 Q 190,310 250,330" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1.5" opacity="0.85"/>
+  <path d="M 300,300 Q 200,230 130,150 Q 100,190 140,245" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1" opacity="0.6"/>
+  <path d="M 300,300 Q 240,260 175,200 Q 150,235 180,270" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1" opacity="0.7"/>
+  <!-- phoenix wing right -->
+  <path d="M 300,300 Q 380,250 450,180 Q 480,220 440,270 Q 410,310 350,330" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1.5" opacity="0.85"/>
+  <path d="M 300,300 Q 400,230 470,150 Q 500,190 460,245" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1" opacity="0.6"/>
+  <path d="M 300,300 Q 360,260 425,200 Q 450,235 420,270" 
+        fill="#1a0808" stroke="#d4af37" stroke-width="1" opacity="0.7"/>
+  <!-- body -->
+  <ellipse cx="300" cy="340" rx="45" ry="70" fill="#1a0808" stroke="#d4af37" stroke-width="1.5" opacity="0.9"/>
+  <!-- tail feathers -->
+  <path d="M 280,400 Q 250,450 230,510 Q 265,480 290,420" fill="#1a0808" stroke="#d4af37" stroke-width="1.2" opacity="0.8"/>
+  <path d="M 300,405 Q 300,460 295,520 Q 310,480 310,420" fill="#1a0808" stroke="#d4af37" stroke-width="1.2" opacity="0.8"/>
+  <path d="M 320,400 Q 350,450 370,510 Q 335,480 310,420" fill="#1a0808" stroke="#d4af37" stroke-width="1.2" opacity="0.8"/>
+  <!-- head -->
+  <ellipse cx="300" cy="255" rx="28" ry="22" fill="#1a0808" stroke="#d4af37" stroke-width="1.5" opacity="0.9"/>
+  <!-- crest feathers -->
+  <path d="M 290,240 Q 280,210 285,185" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 300,236 Q 300,205 300,178" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 310,240 Q 320,210 315,185" fill="none" stroke="#d4af37" stroke-width="1.5" opacity="0.7"/>
+  <!-- eye -->
+  <circle cx="308" cy="252" r="6" fill="#0a0a0a" stroke="#d4af37" stroke-width="1.5"/>
+  <circle cx="308" cy="252" r="3" fill="#d4af37" opacity="0.8"/>
+  <!-- flame glow -->
+  <circle cx="300" cy="320" r="80" fill="none" stroke="#d4af37" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="300" cy="320" r="100" fill="none" stroke="#d4af37" stroke-width="0.5" opacity="0.10"/>
+  <text x="300" y="565" text-anchor="middle" fill="#d4af37" font-family="serif" font-size="13" opacity="0.6">Fênix Blackwork • Seven Tattoo</text>
+</svg>

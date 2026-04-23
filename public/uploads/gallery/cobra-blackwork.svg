@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0d0d0d"/>
+  <!-- snake body -->
+  <path d="M 300 80 C 400 80 450 150 420 220 C 390 290 310 300 320 370 C 330 440 400 460 380 530" 
+        fill="none" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
+  <path d="M 300 80 C 400 80 450 150 420 220 C 390 290 310 300 320 370 C 330 440 400 460 380 530" 
+        fill="none" stroke="#d4af37" stroke-width="36" stroke-linecap="round" opacity="0.15"/>
+  <path d="M 300 80 C 400 80 450 150 420 220 C 390 290 310 300 320 370 C 330 440 400 460 380 530" 
+        fill="none" stroke="#1a1a1a" stroke-width="28" stroke-linecap="round"/>
+  <!-- scales pattern -->
+  <path d="M 300 80 C 400 80 450 150 420 220 C 390 290 310 300 320 370 C 330 440 400 460 380 530" 
+        fill="none" stroke="#333" stroke-width="20" stroke-linecap="round" stroke-dasharray="8 4"/>
+  <!-- head -->
+  <ellipse cx="300" cy="70" rx="22" ry="16" fill="#1a1a1a" stroke="#d4af37" stroke-width="1.5" opacity="0.8"/>
+  <ellipse cx="292" cy="64" rx="4" ry="5" fill="#d4af37" opacity="0.7"/>
+  <ellipse cx="308" cy="64" rx="4" ry="5" fill="#d4af37" opacity="0.7"/>
+  <!-- tongue -->
+  <line x1="300" y1="85" x2="300" y2="100" stroke="#c0392b" stroke-width="1.5"/>
+  <line x1="300" y1="100" x2="293" y2="108" stroke="#c0392b" stroke-width="1.5"/>
+  <line x1="300" y1="100" x2="307" y2="108" stroke="#c0392b" stroke-width="1.5"/>
+  <!-- geometric frame -->
+  <rect x="50" y="50" width="500" height="500" fill="none" stroke="#d4af37" stroke-width="1" opacity="0.2"/>
+  <rect x="60" y="60" width="480" height="480" fill="none" stroke="#d4af37" stroke-width="0.5" opacity="0.15"/>
+  <text x="300" y="580" text-anchor="middle" fill="#d4af37" font-family="serif" font-size="13" opacity="0.6">Cobra Blackwork • Seven Tattoo</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="700" viewBox="0 0 500 700">
+  <rect width="500" height="700" fill="#0d0d0d"/>
+  <!-- sword blade -->
+  <polygon points="250,40 258,420 250,450 242,420" fill="#2a2a2a" stroke="#d4af37" stroke-width="1" opacity="0.9"/>
+  <!-- blade edge highlight -->
+  <line x1="250" y1="40" x2="250" y2="430" stroke="#d4af37" stroke-width="0.7" opacity="0.5"/>
+  <!-- crossguard -->
+  <rect x="175" y="415" width="150" height="18" rx="4" fill="#1a1a1a" stroke="#d4af37" stroke-width="1.5" opacity="0.9"/>
+  <rect x="170" y="410" width="8" height="30" rx="2" fill="#d4af37" opacity="0.6"/>
+  <rect x="322" y="410" width="8" height="30" rx="2" fill="#d4af37" opacity="0.6"/>
+  <!-- handle -->
+  <rect x="235" y="433" width="30" height="130" rx="5" fill="#1a1a1a" stroke="#d4af37" stroke-width="1" opacity="0.9"/>
+  <!-- handle wrapping -->
+  <g opacity="0.5" stroke="#d4af37" stroke-width="1.5">
+    <line x1="235" y1="450" x2="265" y2="450"/>
+    <line x1="235" y1="465" x2="265" y2="465"/>
+    <line x1="235" y1="480" x2="265" y2="480"/>
+    <line x1="235" y1="495" x2="265" y2="495"/>
+    <line x1="235" y1="510" x2="265" y2="510"/>
+    <line x1="235" y1="525" x2="265" y2="525"/>
+    <line x1="235" y1="540" x2="265" y2="540"/>
+  </g>
+  <!-- pommel -->
+  <ellipse cx="250" cy="570" rx="20" ry="12" fill="#1a1a1a" stroke="#d4af37" stroke-width="1.5" opacity="0.9"/>
+  <!-- floral wreath -->
+  <g opacity="0.5">
+    <circle cx="175" cy="300" r="14" fill="none" stroke="#d4af37" stroke-width="1"/>
+    <circle cx="185" cy="270" r="10" fill="none" stroke="#d4af37" stroke-width="1"/>
+    <circle cx="200" cy="245" r="8" fill="none" stroke="#d4af37" stroke-width="1"/>
+    <circle cx="320" cy="300" r="14" fill="none" stroke="#d4af37" stroke-width="1"/>
+    <circle cx="310" cy="270" r="10" fill="none" stroke="#d4af37" stroke-width="1"/>
+    <circle cx="295" cy="245" r="8" fill="none" stroke="#d4af37" stroke-width="1"/>
+  </g>
+  <text x="250" y="660" text-anchor="middle" fill="#d4af37" font-family="serif" font-size="13" opacity="0.6">Espada Ornamental • Seven Tattoo</text>
+</svg>

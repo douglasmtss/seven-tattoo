@@ -1,0 +1,179 @@
+[
+  {
+    "id": "gallery-001",
+    "title": "Mandala Geométrica",
+    "description": "Mandala geométrica com precisão linha a linha, ideal para costela ou costas. Traços finos e preenchimento em dotwork.",
+    "category": "Geométrico",
+    "imageUrl": "/uploads/gallery/mandala-geometrica.svg",
+    "tags": [
+      "mandala",
+      "geometrico",
+      "dotwork",
+      "fineline"
+    ],
+    "featured": true,
+    "createdAt": "2024-03-15T14:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-002",
+    "title": "Rosa Blackwork",
+    "description": "Rosa estilizada em blackwork puro, com pétalas cheias e contraste forte. Ótima para braço ou antebraço.",
+    "category": "Blackwork",
+    "imageUrl": "/uploads/gallery/rosa-blackwork.svg",
+    "tags": [
+      "rosa",
+      "blackwork",
+      "floral",
+      "botanico"
+    ],
+    "featured": true,
+    "createdAt": "2024-04-02T10:30:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-003",
+    "title": "Cobra Blackwork",
+    "description": "Cobra com escamas detalhadas em blackwork, movimento fluido para cobrir o braço do ombro ao pulso.",
+    "category": "Blackwork",
+    "imageUrl": "/uploads/gallery/cobra-blackwork.svg",
+    "tags": [
+      "cobra",
+      "serpente",
+      "blackwork",
+      "animal"
+    ],
+    "featured": false,
+    "createdAt": "2024-04-18T16:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-004",
+    "title": "Espada Ornamental",
+    "description": "Espada com ornamentos florais em estilo neo-tradicional, linda em coxa ou panturrilha.",
+    "category": "Ornamental",
+    "imageUrl": "/uploads/gallery/espada-ornamental.svg",
+    "tags": [
+      "espada",
+      "ornamental",
+      "neo-tradicional",
+      "floral"
+    ],
+    "featured": false,
+    "createdAt": "2024-05-05T11:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-005",
+    "title": "Bússola Fineline",
+    "description": "Bússola náutica com traços ultrafinos e detalhes de graus. Ideal para braço ou tornozelo.",
+    "category": "Fineline",
+    "imageUrl": "/uploads/gallery/bussola-fineline.svg",
+    "tags": [
+      "bussola",
+      "nautico",
+      "fineline",
+      "geometrico"
+    ],
+    "featured": true,
+    "createdAt": "2024-05-22T09:30:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-006",
+    "title": "Lobo Geométrico",
+    "description": "Cabeça de lobo com sobreposição geométrica em blackwork. Destaque para olhos dourados.",
+    "category": "Geométrico",
+    "imageUrl": "/uploads/gallery/lobo-geometrico.svg",
+    "tags": [
+      "lobo",
+      "geometrico",
+      "blackwork",
+      "animal",
+      "realismo"
+    ],
+    "featured": true,
+    "createdAt": "2024-06-10T13:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-007",
+    "title": "Lettering Família",
+    "description": "Lettering cursivo 'Família' com flourishes ornamentados. Perfeito para costela, antebraço ou pescoço.",
+    "category": "Lettering",
+    "imageUrl": "/uploads/gallery/lettering-familia.svg",
+    "tags": [
+      "lettering",
+      "script",
+      "familia",
+      "cursivo"
+    ],
+    "featured": false,
+    "createdAt": "2024-06-28T15:30:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-008",
+    "title": "Koi Japonesa",
+    "description": "Carpa koi em estilo japonês com escamas detalhadas e movimento elegante. Ótima para perna ou costas.",
+    "category": "Japonês",
+    "imageUrl": "/uploads/gallery/koi-japonesa.svg",
+    "tags": [
+      "koi",
+      "japones",
+      "peixe",
+      "oriental"
+    ],
+    "featured": true,
+    "createdAt": "2024-07-14T10:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-009",
+    "title": "Âncora Náutica",
+    "description": "Âncora clássica com corda enrolada, estilo old school/tradicional americano.",
+    "category": "Old School",
+    "imageUrl": "/uploads/gallery/ancora-nautica.svg",
+    "tags": [
+      "ancora",
+      "nautico",
+      "old-school",
+      "tradicional"
+    ],
+    "featured": false,
+    "createdAt": "2024-08-01T14:30:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-010",
+    "title": "Sol Dotwork",
+    "description": "Sol com rosto em dotwork puro, pontilhismo denso formando raios e gradiente de profundidade.",
+    "category": "Dotwork",
+    "imageUrl": "/uploads/gallery/sol-dotwork.svg",
+    "tags": [
+      "sol",
+      "dotwork",
+      "pontilhismo",
+      "geometrico"
+    ],
+    "featured": false,
+    "createdAt": "2024-08-19T11:00:00.000Z",
+    "visible": true
+  },
+  {
+    "id": "gallery-011",
+    "title": "Fênix Blackwork",
+    "description": "Fênix renascendo em blackwork detalhado, asas abertas e crista de fogo. Peça grande para costas ou peito.",
+    "category": "Blackwork",
+    "imageUrl": "/uploads/gallery/fenix-blackwork.svg",
+    "tags": [
+      "fenix",
+      "blackwork",
+      "ave",
+      "mitologia"
+    ],
+    "featured": true,
+    "createdAt": "2024-09-05T16:00:00.000Z",
+    "visible": true
+  }
+]

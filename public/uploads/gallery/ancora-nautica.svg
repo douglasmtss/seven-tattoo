@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0a0a0a"/>
+  <!-- anchor shaft -->
+  <rect x="285" y="100" width="30" height="340" rx="5" fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <!-- anchor ring top -->
+  <circle cx="300" cy="90" r="35" fill="none" stroke="#d4af37" stroke-width="8" opacity="0.9"/>
+  <circle cx="300" cy="90" r="35" fill="none" stroke="#0a0a0a" stroke-width="5" opacity="1"/>
+  <circle cx="300" cy="90" r="35" fill="none" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <!-- crossbar -->
+  <rect x="170" y="165" width="260" height="22" rx="8" fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <circle cx="170" cy="176" r="12" fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <circle cx="430" cy="176" r="12" fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <!-- anchor flukes -->
+  <path d="M 285,435 Q 240,455 190,430 Q 185,460 210,475 Q 260,490 285,455" 
+        fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <path d="M 315,435 Q 360,455 410,430 Q 415,460 390,475 Q 340,490 315,455" 
+        fill="#1a1a1a" stroke="#d4af37" stroke-width="2" opacity="0.9"/>
+  <!-- rope wrapped around shaft -->
+  <g fill="none" stroke="#8B6914" stroke-width="3" opacity="0.6">
+    <path d="M 280,200 Q 270,210 280,220 Q 290,230 280,240 Q 270,250 280,260 Q 290,270 280,280"/>
+    <path d="M 320,200 Q 330,210 320,220 Q 310,230 320,240 Q 330,250 320,260 Q 310,270 320,280"/>
+  </g>
+  <!-- decorative rope coil around -->
+  <path d="M 200,400 Q 220,350 260,380 Q 300,400 300,440" fill="none" stroke="#8B6914" stroke-width="3" opacity="0.5"/>
+  <path d="M 400,400 Q 380,350 340,380 Q 300,400 300,440" fill="none" stroke="#8B6914" stroke-width="3" opacity="0.5"/>
+  <text x="300" y="560" text-anchor="middle" fill="#d4af37" font-family="serif" font-size="13" opacity="0.6">Âncora Náutica • Seven Tattoo</text>
+</svg>
