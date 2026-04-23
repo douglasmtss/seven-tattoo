@@ -23,10 +23,21 @@ export default function Header() {
 
   const handleNavClick = (href: string) => {
     setIsMobileOpen(false);
-    const target = document.querySelector(href);
-    if (target) {
-      target.scrollIntoView({ behavior: "smooth" });
-    }
+    // Aguarda o menu fechar antes de scrollar (importante para mobile)
+    setTimeout(() => {
+      const target = document.querySelector(href);
+      if (target) {
+        if (typeof target.scrollIntoView === "function") {
+          try {
+            target.scrollIntoView({ behavior: "smooth" });
+          } catch {
+            target.scrollIntoView();
+          }
+        } else {
+          window.scrollTo(0, target.getBoundingClientRect().top + window.scrollY);
+        }
+      }
+    }, 300); // 300ms cobre a animação do menu mobile
   };
 
   return (
